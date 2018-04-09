@@ -16,6 +16,7 @@
     "node": ">=8.0.0"
   },
   "dependencies": {
+    "datastore-fs": "^0.4.2",
     "ipfs": "~0.28.0",
     "logplease": "~1.2.14",
     "orbit-db": "~0.19.7",

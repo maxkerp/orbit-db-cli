@@ -1,5 +1,8 @@
 all: test
 
+run:
+	node ./src/bin.js
+
 deps:
 	npm install
 
